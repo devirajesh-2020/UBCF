@@ -4,7 +4,7 @@ class(Adult)
 View(Adult)
 summary(Adult)
 
-
+devi
 data("Groceries")
 class(Groceries)
 summary(Groceries)
